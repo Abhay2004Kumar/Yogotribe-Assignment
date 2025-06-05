@@ -13,3 +13,6 @@ This is a simple frontend demo project. Follow the instructions below to set up 
 ### 1. cd backend assignment
 ### 2. npm i
 ### 3. npm run start
+
+#### API example: http://localhost:3000/api/is-prime/28
+
